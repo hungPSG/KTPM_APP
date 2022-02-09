@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="KhaiBaoF0F1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhongBanNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Salary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TiemChung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVien(QL).cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PanelQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PannelNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhongBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyF0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Slogan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThemF0F1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TienLuong%28QL%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TraCuuF0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
